@@ -1,0 +1,8 @@
+C:\Users\Roei\Desktop\DN_IDC_2017B_Ex05\bin\Debug\Ex05-Windows.exe
+C:\Users\Roei\Desktop\DN_IDC_2017B_Ex05\bin\Debug\Ex05-Windows.pdb
+C:\Users\Roei\Desktop\DN_IDC_2017B_Ex05\obj\Debug\DN_IDC_2017B_Ex05.csprojResolveAssemblyReference.cache
+C:\Users\Roei\Desktop\DN_IDC_2017B_Ex05\obj\Debug\Ex05_Windows.Properties.Resources.resources
+C:\Users\Roei\Desktop\DN_IDC_2017B_Ex05\obj\Debug\DN_IDC_2017B_Ex05.csproj.GenerateResource.Cache
+C:\Users\Roei\Desktop\DN_IDC_2017B_Ex05\obj\Debug\DN_IDC_2017B_Ex05.csproj.CoreCompileInputs.cache
+C:\Users\Roei\Desktop\DN_IDC_2017B_Ex05\obj\Debug\Ex05-Windows.exe
+C:\Users\Roei\Desktop\DN_IDC_2017B_Ex05\obj\Debug\Ex05-Windows.pdb
